@@ -1,0 +1,12 @@
+{
+  "recover.dead_co_master.fail": 2,
+  "recover.dead_co_master.start": 7,
+  "recover.dead_co_master.success": 5,
+  "recover.dead_intermediate_master.fail": 3,
+  "recover.dead_intermediate_master.start": 9,
+  "recover.dead_intermediate_master.success": 6,
+  "recover.dead_master.fail": 4,
+  "recover.dead_master.start": 11,
+  "recover.dead_master.success": 7,
+  "recover.pending": 2
+}
